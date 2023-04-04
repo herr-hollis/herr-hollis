@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently busy hustling<br>🎓 BSc in Physics <br>💻 Interested in Computational Physics<br>🌱 Currently keen on learning cloud computing<br>🚀 Ask me about anything about space science<br>⚡ Fun fact - I know how to play piano
+🔭 Currently busy hustling<br>🎓 BSc in Physics <br>💻 Interested in Computational Physics<br>🌱 I’m currently learning cloud computing<br>🚀 Ask me about anything about space science<br>⚡ Fun fact - I know how to play piano
 
 
 ## 🌐 Socials:
