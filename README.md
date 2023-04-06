@@ -19,6 +19,6 @@ $~~~~$
 <img align="left" width="40%" src = "https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
 <img align="left" width="45%" src = "https://rm.up.railway.app/" />
 
-$~~~~~~~~~~~~~~~~~~~$
+$~~~~~~~~~~~~~~~~~~~~~$
 ---
 [![](https://visitcount.itsvg.in/api?id=herr-hollis&icon=2&color=0)](https://visitcount.itsvg.in)
