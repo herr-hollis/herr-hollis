@@ -18,7 +18,7 @@ $~$
 
 ##### Quote and Meme of the Day
 <img align="left" width="40%" src = "https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
-<img align="left" width="40%" src = "https://rm.up.railway.app/" />
+<img align="left" width="50%" src = "https://rm.up.railway.app/" />
 
 $~~~~~~~~~~$
 ---
