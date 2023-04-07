@@ -1,7 +1,7 @@
 ## Hi there, I'm Hollis! 👋🏻
 
-<img align="left" width="45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=herr-hollis&layout=compact" />
-<img align="left" width="50%" src = "https://github-readme-stats.vercel.app/api?username=herr-hollis&show_icons=true&theme=radical)" />
+<img align="left" width="45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=herr-hollis&layout=compact&theme=tokyonight" />
+<img align="left" width="50%" src = "https://github-readme-stats.vercel.app/api?username=herr-hollis&show_icons=true&theme=tokyonight" />
 
 $~~~~$
 
