@@ -2,7 +2,7 @@
 
 <img align="left" width="45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=herr-hollis&layout=compact&theme=tokyonight" />
 ### Quote and Meme of the Day
-<img align="left" width="10%" src = "https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
+<img align="left" width="40%" src = "https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
 
 $~~~~$
 
@@ -14,9 +14,6 @@ $~~~~$
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
-
-### Quote and Meme of the Day
-<img align="left" width="40%" src = "https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$
 ---
