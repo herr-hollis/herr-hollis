@@ -1,7 +1,6 @@
 ## Hi there, I'm Hollis! 👋🏻
 
 <img align="left" width="45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=herr-hollis&layout=compact&theme=tokyonight" />
-<img align="left" width="50%" src = "https://github-readme-stats.vercel.app/api?username=herr-hollis&show_icons=true&theme=tokyonight" />
 
 $~~~~$
 
@@ -16,7 +15,6 @@ $~~~~$
 
 ### Quote and Meme of the Day
 <img align="left" width="40%" src = "https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
-<img align="left" width="45%" src = "https://rm.up.railway.app/" />
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$
 ---
