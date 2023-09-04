@@ -5,8 +5,6 @@
 ### Quote of the Day
 <img align="left" width="40%" src = "https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
 
----
-
 $~~~~$
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
