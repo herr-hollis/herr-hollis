@@ -2,7 +2,7 @@
 
 <img align="left" width="45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=herr-hollis&hide_progress=true&theme=tokyonight" />
 
-$~~~~$
+
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -16,6 +16,6 @@ $~~~~$
 
 ---
 
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$
----
+$~~~~$
+
 [![](https://visitcount.itsvg.in/api?id=herr-hollis&icon=2&color=0)](https://visitcount.itsvg.in)
