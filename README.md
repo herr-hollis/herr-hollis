@@ -2,7 +2,11 @@
 
 
 <img align="left" width="45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=herr-hollis&layout=donut-vertical&theme=tokyonight" />
-<img align="left" width="45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=herr-hollis&langs_count=20" />
+<img align="left" width="45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=herr-hollis&langs_count=8" />
+<img align="left" width="45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=herr-hollis&layout=compact" />
+<img align="left" width="45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=herr-hollis&layout=donut)](https://github.com/herr-hollis/github-readme-stats)" />
+<img align="left" width="45%" src = "(https://github-readme-stats.vercel.app/api/top-langs/?username=herr-hollis&layout=donut-vertical)](https://github.com/herr-hollis/github-readme-stats)" />
+<img align="left" width="45%" src = "(https://github-readme-stats.vercel.app/api/top-langs/?username=herr-hollis&layout=pie)](https://github.com/herr-hollis/github-readme-stats)" />
 
 ### Quote of the Day
 <img align="left" width="40%" src = "https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
