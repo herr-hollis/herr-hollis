@@ -12,7 +12,5 @@
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-$~~~~$
-
 
 [![](https://visitcount.itsvg.in/api?id=herr-hollis&icon=2&color=0)](https://visitcount.itsvg.in)
