@@ -1,6 +1,6 @@
 ## Hi there, I'm Hollis! 👋🏻
 
-//<img align="left" width="45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=herr-hollis&layout=compact&theme=tokyonight" />
+
 <img align="left" width="45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=herr-hollis&layout=donut-vertical&theme=tokyonight" />
 
 ### Quote of the Day
