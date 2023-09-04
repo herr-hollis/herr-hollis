@@ -2,7 +2,7 @@
 
 
 <img align="left" width="45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=herr-hollis&layout=donut-vertical&theme=tokyonight" />
-<img align="left" width="45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=herr-hollis&hide_progress=true&langs_count=20" />
+<img align="left" width="45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=herr-hollis&hide_progress=true&langs_count=10" />
 
 ### Quote of the Day
 <img align="left" width="40%" src = "https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
