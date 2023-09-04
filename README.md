@@ -1,7 +1,7 @@
 ## Hi there, I'm Hollis! 👋🏻
 
 <img align="left" width="45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=herr-hollis&layout=compact&theme=tokyonight" />
-<img align="left" width="45%" src = "(https://github-readme-stats.vercel.app/api/top-langs/?username=herr-hollis&langs_count=8)&theme=tokyonight" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 ### Quote of the Day
 <img align="left" width="40%" src = "https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
 
